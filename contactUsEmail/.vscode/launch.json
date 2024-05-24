@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-ContactUsEmailApplication<contactUsEmail>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "com.emial1.email1.ContactUsEmailApplication",
+      "projectName": "contactUsEmail",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
